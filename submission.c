@@ -22,6 +22,8 @@ int main()
 }
 
 
+//dfsdfsfsdfsdfsdf
+
 void LoadInfo(char* str, const int max_size)
 {
     const char filename[] = "data.txt";
